@@ -1,6 +1,6 @@
-# WHMCS
-aamarpay integration on WHMCS
-<img src="https://www.aamarpay.com/images/logo.png" alt="aamarpay">
+# aamarpay
+ integration on WHMCS<br>
+<img src="https://www.aamarpay.com/images/logo.png" alt="aamarpay"><br>
 #Please visit 
 http://aamarpay.com
 for more details
